@@ -16,8 +16,6 @@ Si hicimos un buen trabajo previo de análisis y nuestro **Diagrama Entidad-Rela
 2. **Atributos a Columnas:** Todos los atributos que tenía esa entidad (nombre, descripción, fecha, etc.) pasan a ser las columnas de esa nueva tabla.
 3. **Clave Primaria:** El atributo clave de nuestra entidad, ese que la identifica de forma única, se convierte automáticamente en la **Clave Primaria** de la tabla.
 
-> ![blT](Img/2.png)
-
 ---
 
 ## ¿Qué hacemos con las relaciones?
@@ -32,7 +30,7 @@ Si tenemos dos entidades que se relacionan de muchos a muchos, creamos una **tab
 * Juntas, formarán la clave primaria de esta nueva tabla puente.
 * Si la relación original tenía atributos propios, también se añaden a esta tabla.
 
-> 💡 **Sugerencia de imagen:** Captura del video donde se ve la relación entre "Plato" e "Ingrediente" generando esa tercera tabla intermedia.
+> ![blT](Img/2.png)
 
 ### 2. Cuando la relación es de Uno a Muchos (1:N)
 En este caso no necesitamos crear ninguna tabla extra. Lo que hacemos es **modificar la tabla que está del lado de los "muchos"**.
