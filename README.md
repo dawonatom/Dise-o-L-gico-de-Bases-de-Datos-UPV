@@ -39,8 +39,6 @@ En este caso no necesitamos crear ninguna tabla extra. Lo que hacemos es **modif
 * Esa columna será la clave primaria de la tabla Categoría.
 * Este campo funciona como clave ajena para saber a qué categoría pertenece cada plato.
 
-> 💡 **Sugerencia de imagen:** Captura donde se vea cómo el campo "nombre de categoría" migra hacia el interior de la tabla "Plato".
-
 ---
 
 ## A modo de conclusión
