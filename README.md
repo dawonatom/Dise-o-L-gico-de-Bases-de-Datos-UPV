@@ -1,8 +1,8 @@
-# Apuntes: Diseño Lógico de Bases de Datos Relacionales
+# Apuntes
 
 El diseño lógico de bases de datos es el paso en el que tomamos todas las necesidades de información que ya habíamos planteado y proponemos una solución tecnológica real. Para lograr esto, necesitamos basarnos en un modelo de datos, que no es más que la tecnología o el formato que usaremos para organizar todo.
 
-En nuestro caso, nos vamos a enfocar en el **modelo relacional**. Es un modelo súper intuitivo porque organiza la información en algo que todos conocemos muy bien: tablas con filas y columnas.
+En este caso, nos vamos a enfocar en el **modelo relacional**. Es un modelo súper intuitivo porque organiza la información en algo que todos conocemos muy bien: tablas con filas y columnas.
 
 > ![blT](Img/1.png)
 
