@@ -16,7 +16,7 @@ Si hicimos un buen trabajo previo de análisis y nuestro **Diagrama Entidad-Rela
 2. **Atributos a Columnas:** Todos los atributos que tenía esa entidad (nombre, descripción, fecha, etc.) pasan a ser las columnas de esa nueva tabla.
 3. **Clave Primaria:** El atributo clave de nuestra entidad, ese que la identifica de forma única, se convierte automáticamente en la **Clave Primaria** de la tabla.
 
-> 💡 **Sugerencia de imagen:** En esta parte quedaría genial una imagen que muestre un cuadrito de entidad (por ejemplo, "Plato") con sus atributos, y justo al lado cómo se ve ya convertida en una tabla con sus columnas.
+> ![blT](Img/2.png)
 
 ---
 
