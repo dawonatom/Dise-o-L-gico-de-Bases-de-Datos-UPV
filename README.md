@@ -4,7 +4,7 @@ El diseño lógico de bases de datos es el paso en el que tomamos todas las nece
 
 En nuestro caso, nos vamos a enfocar en el **modelo relacional**. Es un modelo súper intuitivo porque organiza la información en algo que todos conocemos muy bien: tablas con filas y columnas.
 
-> 💡 **Sugerencia de imagen:** Aquí podrías poner una captura del video donde el profesor muestra el ejemplo de una tabla básica (como la de los coches con su matrícula, color, etc.) para que se entienda rápido qué es el modelo relacional.
+> ![blT](img/1.png)
 
 ---
 
